@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\TESTE\TESTE\bin\Debug\TESTE.exe.config
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\TESTE\TESTE\bin\Debug\TESTE.exe
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\TESTE\TESTE\bin\Debug\TESTE.pdb
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\TESTE\TESTE\obj\Debug\TESTE.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\TESTE\TESTE\obj\Debug\TESTE.exe
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\TESTE\TESTE\obj\Debug\TESTE.pdb

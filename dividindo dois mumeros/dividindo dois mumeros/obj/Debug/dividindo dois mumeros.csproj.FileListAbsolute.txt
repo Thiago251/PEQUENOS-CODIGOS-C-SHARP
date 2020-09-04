@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\dividindo dois mumeros\dividindo dois mumeros\bin\Debug\dividindo dois mumeros.exe.config
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\dividindo dois mumeros\dividindo dois mumeros\bin\Debug\dividindo dois mumeros.exe
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\dividindo dois mumeros\dividindo dois mumeros\bin\Debug\dividindo dois mumeros.pdb
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\dividindo dois mumeros\dividindo dois mumeros\obj\Debug\dividindo dois mumeros.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\dividindo dois mumeros\dividindo dois mumeros\obj\Debug\dividindo dois mumeros.exe
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\dividindo dois mumeros\dividindo dois mumeros\obj\Debug\dividindo dois mumeros.pdb

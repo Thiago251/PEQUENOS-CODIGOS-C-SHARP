@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\for\for\obj\Debug\for.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\for\for\bin\Debug\for.exe.config
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\for\for\bin\Debug\for.exe
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\for\for\bin\Debug\for.pdb
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\for\for\obj\Debug\for.exe
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\for\for\obj\Debug\for.pdb

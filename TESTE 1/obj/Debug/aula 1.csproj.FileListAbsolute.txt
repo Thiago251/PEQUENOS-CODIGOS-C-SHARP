@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\aula 1\bin\Debug\aula 1.exe.config
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\aula 1\bin\Debug\aula 1.exe
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\aula 1\bin\Debug\aula 1.pdb
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\aula 1\obj\Debug\aula 1.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\aula 1\obj\Debug\aula 1.exe
+C:\Users\usuario\Desktop\PROJETOS\C#\Curso\aula 1\obj\Debug\aula 1.pdb
